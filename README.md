@@ -18,6 +18,7 @@
 | [2021-02-01 MON](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210201.md) :sunny: | 이것이 자바다 9~10, 12장  | - 9장 확인문제 풀이<br />- 예외 처리<br />- 멀티 스레드      |
 | [2021-02-02 TUE](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210202.md) :cloud_with_snow: | 이것이 자바다 10~11, 15장 | - 10장 확인문제 풀이<br />- 멀티 스레드<br />- 컬렉션 프레임워크 |
 | [2021-02-03 WED](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210203.md) :snowflake: |                           | - 6~8장 복습                                                 |
+| [2021-02-04 THU](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210204.md) :sunny: | Git 특강                  | - Git 기초                                                   |
 
 
 
