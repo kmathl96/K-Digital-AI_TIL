@@ -7,6 +7,23 @@
 :key: `.gitignore` 파일 만들기
 
 - 해당 파일/폴더를 .gitignore 텍스트 파일에 작성하여 저장
+- [자동으로 .gitignore 파일 생성하기](http://gitignore.io/)
+  - java, eclipse 등의 키워드를 적으면 .gitignore 내용 생성해줌
+  - .gitignore 파일 만든 후 해당 내용 복붙
+
+---
+
+:lock: .gitignore.txt에 작성했는데도 git이 해당 파일을 관리함..:thinking: 
+
+:key: 이클립스에서 직접 추가하기
+
+- Window - Preferences - Team - Git - Ignored Resources
+  ![image-20210204173050626](../K-Digital-AI/Docs/img/image-20210204173050626-1612427902285.png)
+- 그치만 난 여전히 .metadata, .class 파일 등이 올라감​ :sob:
+
+:key: 파일 이름 확인하기
+
+- `.gitignore`에 확장자명(`.txt`)이 붙어있었는데 지우니까 바로 적용됨 :angry:
 
 
 
