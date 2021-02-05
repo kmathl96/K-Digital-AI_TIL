@@ -17,8 +17,9 @@
 | [2021-01-29 FRI](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210129.md) :sunny: | 이것이 자바다 7~10강      | - 추상 클래스<br />- 인터페이스<br />- 예외 처리             |
 | [2021-02-01 MON](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210201.md) :sunny: | 이것이 자바다 9~10, 12장  | - 9장 확인문제 풀이<br />- 예외 처리<br />- 멀티 스레드      |
 | [2021-02-02 TUE](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210202.md) :cloud_with_snow: | 이것이 자바다 10~11, 15장 | - 10장 확인문제 풀이<br />- 멀티 스레드<br />- 컬렉션 프레임워크 |
-| [2021-02-03 WED](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210203.md) :snowflake: |                           | - 6~8장 복습                                                 |
-| [2021-02-04 THU](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210204.md) :sunny: | Git 특강                  | - Git 기초                                                   |
+| [2021-02-03 WED](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210203.md) :snowflake: | 이것이 자바다 6~8장       | - 복습                                                       |
+| [2021-02-04 THU](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210204-210205.md) :sunny: | Git 특강                  | - Git 기초<br />- 원격 저장소 설정                           |
+| [2021-02-05 FRI](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210204-210205.md#gitignore) :sunny: | Git 특강                  | - .gitignore<br />- Github 활용<br />- branch<br />- git 명령어 |
 
 
 
@@ -39,3 +40,7 @@
 
 - `.gitignore`를 이용해 특정 파일/폴더를 Git에 올라가지 않게 하기
 - 이미 Git에 올린 특정 파일/폴더를 삭제하는 방법
+
+### branch
+
+- 브랜치 활용하는 방법
