@@ -22,6 +22,7 @@
 | [2021-02-05 FRI](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210204-210205.md#gitignore) :sunny: | Git 특강                  | - .gitignore<br />- Github 활용<br />- branch<br />- git 명령어 |
 | [2021-02-08 MON](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210208-210209.md) :sunny: | 이것이 자바다 13~14, 18강 | - 제네릭<br />- 람다식<br />- 입출력                         |
 | [2021-02-09 TUE](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210208-210209.md#18-io-%EA%B8%B0%EB%B0%98-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%8F-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9) :cloud: | 이것이 자바다 18강        | - 입출력                                                     |
+| [2021-02-15 MON](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210215.md) :cloud: | 이것이 오라클이다 1강     | - Oracle DB 설치<br />- DBMS<br />- SQL                      |
 
 
 
