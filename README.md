@@ -25,6 +25,7 @@
 | [2021-02-15 MON](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210215.md) :cloud: | 이것이 오라클이다 1강     | - Oracle DB 설치<br />- DBMS<br />- SQL                      |
 | [2021-02-16 TUE](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210216.md) :snowflake: |                           | - SQL 함수<br />- JOIN<br />- DDL                            |
 | [2021-02-17 WED](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210217.md) :cloud: |                           | - DDL, DML<br />- 제약 조건<br />- Sub Query                 |
+| [2021-02-18 THU](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210218.md) :partly_sunny: |                           | - 데이터베이스 모델링<br />- Oracle-DB 연동                  |
 
 
 
