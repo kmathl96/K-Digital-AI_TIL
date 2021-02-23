@@ -28,6 +28,7 @@
 | [2021-02-18 THU](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210218.md) :partly_sunny: |                                | - 데이터베이스 모델링<br />- Eclipse-DB 연동                 |
 | [2021-02-19 FRI](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210219.md) :sunny: |                                | - 복습 및 데이터베이스 실습                                  |
 | [2021-02-22 MON](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210222.md) :sunny: | HTML5 웹 프로그래밍 입문 1~4강 | - 웹 개요<br />- HTML5 용어 및 태그                          |
+| [2021-02-23 TUE](https://github.com/kmathl96/K-Digital-AI_TIL/blob/master/TIL/210223.md) :sunny: | HTML5 웹 프로그래밍 입문 4~7강 | - HTML5 문서 구조화<br />- CSS3<br />- 레이아웃 구성         |
 
 
 
